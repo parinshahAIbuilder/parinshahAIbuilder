@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Parin Shah
 
-<!--
-**parinshahAIbuilder/parinshahAIbuilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CFO | CA (ICAI) | CPA (AICPA) | Global MBA, AI & Business Analytics (Golden Gate University)**
 
-Here are some ideas to get you started:
+I build open-source AI tools that solve real problems in Indian finance, compliance and capital markets, drawing on ~19 years as a finance leader, including taking a company from startup to a main board IPO on NSE & BSE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### [Indian Compliance Calendar](https://github.com/parinshahAIbuilder/indian-compliance-calendar)
+Free compliance calendar and reminder system for CFOs, Company Secretaries and compliance teams in India.
+- Every recurring statutory deadline for listed (NSE/BSE, equity & debt), unlisted public, private companies and LLPs
+- Due dates worked out from your actual board meeting, earnings call and AGM dates
+- Checks BSE to confirm each filing was actually made
+- Email and WhatsApp reminders until every item is closed
+- Ships as a Node.js web app **and** a Claude skill
+
+If it saves your team time, a star helps other finance teams find it.
+
+## What I work on
+- **AI for finance:** Claude agents and skills for accounting, AP automation, Zoho Books integration
+- **Listed-company compliance:** SEBI LODR, Companies Act, Ind AS (especially Ind AS 116)
+- **Capital markets & debt:** IPOs, listed NCDs, debt syndication, credit ratings
+- **FP&A and modelling:** Excel and Python financial models, CFO dashboards
+
+## Other repos
+- [Claude-code-Skills](https://github.com/parinshahAIbuilder/Claude-code-Skills): curated Claude Code skills, commands and resources
+
+## Teaching
+Faculty at ICAI, Imarticus and AMA (Ahmedabad Management Association), teaching AI, investment banking, Ind AS and financial planning.
+
+## Connect
+Based in Ahmedabad, India. Open to collaborating on AI for finance and compliance. Reach me at shahparinj@gmail.com.

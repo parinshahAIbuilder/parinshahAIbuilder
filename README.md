@@ -20,6 +20,14 @@ I build open-source AI tools that solve real problems in Indian finance, complia
 /plugin marketplace add parinshahAIbuilder/claude-for-indian-finance
 ```
 
+### ⚖️ [Claude for Legal: India Edition](https://github.com/parinshahAIbuilder/claude-for-legal-india)
+
+Anthropic's Claude for Legal plus an `india-legal` plugin: Indian contract and lease review, SHA / ESOP documents, Companies Act resolutions and FEMA / RBI compliance.
+
+```
+/plugin marketplace add parinshahAIbuilder/claude-for-legal-india
+```
+
 | Project | What it does |
 |---|---|
 | [**Indian Compliance Calendar**](https://github.com/parinshahAIbuilder/indian-compliance-calendar) · [docs site](https://parinshahaibuilder.github.io/indian-compliance-calendar/) | Every recurring statutory deadline for listed (NSE/BSE, equity & debt), unlisted, private companies and LLPs. Dates worked out from your real board, earnings-call and AGM dates, BSE filing checks, email and WhatsApp reminders. Node.js app **and** Claude skill. |

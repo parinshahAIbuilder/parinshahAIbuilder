@@ -12,6 +12,14 @@ I build open-source AI tools that solve real problems in Indian finance, complia
 
 ## Featured projects
 
+### 🇮🇳 [Claude for Indian Finance](https://github.com/parinshahAIbuilder/claude-for-indian-finance)
+
+4 installable Claude plugins and 17 skills for Indian finance and listed-company compliance: SEBI LODR Reg 30 disclosures, Ind AS 116, GSTR-2B ITC, TDS, CMA / MPBF for bank loans, NCD interest registers and credit rating prep.
+
+```
+/plugin marketplace add parinshahAIbuilder/claude-for-indian-finance
+```
+
 | Project | What it does |
 |---|---|
 | [**Indian Compliance Calendar**](https://github.com/parinshahAIbuilder/indian-compliance-calendar) · [docs site](https://parinshahaibuilder.github.io/indian-compliance-calendar/) | Every recurring statutory deadline for listed (NSE/BSE, equity & debt), unlisted, private companies and LLPs. Dates worked out from your real board, earnings-call and AGM dates, BSE filing checks, email and WhatsApp reminders. Node.js app **and** Claude skill. |
